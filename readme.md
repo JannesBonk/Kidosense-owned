@@ -5,6 +5,6 @@ Tools used to crack :
 
 + https://github.com/dnSpy/dnSpy - Extracting source
 
-+ https://github.com/yck1509/ConfuserEx - unobfuscating
++ UnConfuserEX - unobfuscating - found in this repository
 
 I can already smell the znix panel on his website :skull:
